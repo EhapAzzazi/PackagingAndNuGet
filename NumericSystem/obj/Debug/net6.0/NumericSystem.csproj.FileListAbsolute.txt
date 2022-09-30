@@ -1,0 +1,12 @@
+D:\New Course\PackagingAndNuGet\NumericSystem\bin\Debug\net6.0\NumericSystem.deps.json
+D:\New Course\PackagingAndNuGet\NumericSystem\bin\Debug\net6.0\NumericSystem.dll
+D:\New Course\PackagingAndNuGet\NumericSystem\bin\Debug\net6.0\NumericSystem.pdb
+D:\New Course\PackagingAndNuGet\NumericSystem\obj\Debug\net6.0\NumericSystem.csproj.AssemblyReference.cache
+D:\New Course\PackagingAndNuGet\NumericSystem\obj\Debug\net6.0\NumericSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Course\PackagingAndNuGet\NumericSystem\obj\Debug\net6.0\NumericSystem.AssemblyInfoInputs.cache
+D:\New Course\PackagingAndNuGet\NumericSystem\obj\Debug\net6.0\NumericSystem.AssemblyInfo.cs
+D:\New Course\PackagingAndNuGet\NumericSystem\obj\Debug\net6.0\NumericSystem.csproj.CoreCompileInputs.cache
+D:\New Course\PackagingAndNuGet\NumericSystem\obj\Debug\net6.0\NumericSystem.dll
+D:\New Course\PackagingAndNuGet\NumericSystem\obj\Debug\net6.0\refint\NumericSystem.dll
+D:\New Course\PackagingAndNuGet\NumericSystem\obj\Debug\net6.0\NumericSystem.pdb
+D:\New Course\PackagingAndNuGet\NumericSystem\obj\Debug\net6.0\ref\NumericSystem.dll

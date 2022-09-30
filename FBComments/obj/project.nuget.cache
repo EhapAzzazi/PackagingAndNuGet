@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mII+OWRo/OHpgEqw7xm7GoR4FKxg+Q4uXuKt9uXijpZm7O9N6bEzULs6sQVmv/cYoPBlsOPhQsbdCEw/B8Qa3A==",
+  "success": true,
+  "projectFilePath": "D:\\New Course\\PackagingAndNuGet\\FBComments\\FBComments.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\عزازي\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512"
+  ],
+  "logs": []
+}

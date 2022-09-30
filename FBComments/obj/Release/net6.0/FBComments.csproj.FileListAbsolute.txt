@@ -1,0 +1,17 @@
+D:\New Course\PackagingAndNuGet\FBComments\bin\Release\net6.0\FBComments.exe
+D:\New Course\PackagingAndNuGet\FBComments\bin\Release\net6.0\FBComments.deps.json
+D:\New Course\PackagingAndNuGet\FBComments\bin\Release\net6.0\FBComments.runtimeconfig.json
+D:\New Course\PackagingAndNuGet\FBComments\bin\Release\net6.0\FBComments.dll
+D:\New Course\PackagingAndNuGet\FBComments\bin\Release\net6.0\FBComments.pdb
+D:\New Course\PackagingAndNuGet\FBComments\bin\Release\net6.0\Humanizer.dll
+D:\New Course\PackagingAndNuGet\FBComments\obj\Release\net6.0\FBComments.csproj.AssemblyReference.cache
+D:\New Course\PackagingAndNuGet\FBComments\obj\Release\net6.0\FBComments.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Course\PackagingAndNuGet\FBComments\obj\Release\net6.0\FBComments.AssemblyInfoInputs.cache
+D:\New Course\PackagingAndNuGet\FBComments\obj\Release\net6.0\FBComments.AssemblyInfo.cs
+D:\New Course\PackagingAndNuGet\FBComments\obj\Release\net6.0\FBComments.csproj.CoreCompileInputs.cache
+D:\New Course\PackagingAndNuGet\FBComments\obj\Release\net6.0\FBComments.csproj.CopyComplete
+D:\New Course\PackagingAndNuGet\FBComments\obj\Release\net6.0\FBComments.dll
+D:\New Course\PackagingAndNuGet\FBComments\obj\Release\net6.0\refint\FBComments.dll
+D:\New Course\PackagingAndNuGet\FBComments\obj\Release\net6.0\FBComments.pdb
+D:\New Course\PackagingAndNuGet\FBComments\obj\Release\net6.0\FBComments.genruntimeconfig.cache
+D:\New Course\PackagingAndNuGet\FBComments\obj\Release\net6.0\ref\FBComments.dll
